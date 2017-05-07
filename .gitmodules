@@ -1,3 +1,6 @@
 [submodule "pathfinding"]
 	path = pathfinding
 	url = ../pathfinding
+[submodule "flydie"]
+	path = flydie
+	url = ../flydie
