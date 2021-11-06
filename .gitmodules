@@ -4,3 +4,6 @@
 [submodule "flydie"]
 	path = flydie
 	url = ../flydie
+[submodule "ui"]
+	path = ui
+	url = ../ui
